@@ -1,0 +1,16 @@
+{
+  "fornecedores": [
+    {
+      "id": "1234arfstg",
+      "nome": "Marcela Gervasoni",
+      "endereco": "Avenida Lins de Vasconcelos",
+      "telefone": "1019181716"
+    },
+    {
+      "id": "nonbcjjx09876",
+      "nome": "Gabrielly Freitas",
+      "endereco": "Avenida Anhaia Melo",
+      "telefone": "1213141516"
+    }
+  ]
+}
